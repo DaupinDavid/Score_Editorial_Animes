@@ -107,7 +107,7 @@ Le **Score Éditorial** a bouleversé le Top 10 :
 ### 1️⃣ Cloner le dépôt
 
 ```bash
-git clone https://github.com/DaupinDavid/Score_Editorial_Anime.git
+git clone https://github.com/DaupinDavid/Score_Editorial_Animes.git
 ```
 
 ### 2️⃣ Installer les dépendances
